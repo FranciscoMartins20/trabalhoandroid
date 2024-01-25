@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401806224634",
+    "project_id": "trabalho-final-pdmi",
+    "storage_bucket": "trabalho-final-pdmi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401806224634:android:664f9e3f1606e91009ed43",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401806224634-7554bpgi68brtatqli0p2d7slmn1a3oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp12drZsKV1kqwMS9cTxx6Gy8_3Hw1qdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401806224634-7554bpgi68brtatqli0p2d7slmn1a3oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
